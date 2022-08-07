@@ -1,4 +1,4 @@
-This page is available as an easy-to-read website at [https://albertomosconi.github.io/foss-apps](https://albertomosconi.github.io/foss-apps).
+
 
 <h1 id="title" align="center">Cool FOSS Android Apps</h1>
 
@@ -60,18 +60,4 @@ Any app suggestion is more than welcome and should be submitted via an [issue](h
 
 Alternatively you can save me some work and send a **Pull Request**, but make sure to follow the [CONTRIBUTING GUIDELINES](https://github.com/albertomosconi/foss-apps/blob/main/CONTRIBUTING.md).
 
-## Acknowledgments
 
-**[`^ back to top ^`](#title)**
-
-- [A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)](https://www.reddit.com/r/androidapps/comments/i7o6rp/a_big_list_of_some_useful_foss_free_and 'A BIG LIST of some useful FOSS (free and open-source) apps for Android (Reddit)')
-- [A List of Open Source Applications (Reddit)](https://www.reddit.com/r/androidapps/comments/jhtvn4/a_list_of_open_source_applications/ 'A List of Open Source Applications (Reddit)')
-- [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme 'Building a self-updating profile README for GitHub')
-
----
-
-<div align="center">
-  
-### ⭐ Leave a star if you found this helpful!
-
-</div>
